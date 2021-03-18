@@ -46,7 +46,7 @@
 
   <footer>
     <span>
-      IOTA Identity X-Team
+      IOTA WebAssembly X-Team
     </span>
   </footer>
 </div>
