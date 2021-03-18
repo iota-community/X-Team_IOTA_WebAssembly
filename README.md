@@ -6,9 +6,9 @@
 </p>
 
 
-<h1 align="center"><a href="https://www.iota.org"> IOTA WebAssebly(Wasm) Initiative</a></h1>
+<h1 align="center"><a href="https://www.iota.org"> IOTA WebAssembly(Wasm) Initiative</a></h1>
 
-<p align="center">The IOTA WebAssebly(Wasm) Initiative is aimed to provide help, guidance, and spotlight to the IOTA Developer Community.</p>
+<p align="center">The IOTA WebAssembly(Wasm) Initiative is aimed to provide help, guidance, and spotlight to the IOTA Developer Community.</p>
 
 <p align="center">
   <a title="MIT License" href="LICENSE">
@@ -22,9 +22,9 @@
 </p>
 
 
-## 🌳 IOTA WebAssebly(Wasm) Initiative
+## 🌳 IOTA WebAssembly(Wasm) Initiative
 
-The **IOTA WebAssebly(Wasm) Initiative** is a collaborative effort to discover the usage of Wasm in the IOTA Ecosystem, doing research, creating learning material, test and improve the Wasm binings and create tools and applications for the Wasm and IOTA Community.
+The **IOTA WebAssembly(Wasm) Initiative** is a collaborative effort to discover the usage of Wasm in the IOTA Ecosystem, doing research, creating learning material, test and improve the Wasm binings and create tools and applications for the Wasm and IOTA Community.
 
 [WebAssembly](https://webassembly.org/) (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.
 
@@ -32,7 +32,7 @@ IOTA is an open-source distributed ledger technology that allows [connected devi
 
 ## 🎯 Initiative Goals
 
-The IOTA WebAssebly(Wasm) Initiative is in phase [alpha implementation, ready for review, research phase]. We are currently focused on improving the IOTA Experience around the following goals:
+The IOTA WebAssembly(Wasm) Initiative is in phase [alpha implementation, ready for review, research phase]. We are currently focused on improving the IOTA Experience around the following goals:
 
 **Insert goals you would like to achive and delete this line**
 
